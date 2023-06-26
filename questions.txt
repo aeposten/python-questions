@@ -348,18 +348,6 @@ C) To restart the loop from the beginning.
 D) To check a condition and continue the loop accordingly.
 ANSWER: B
 
-What is the output of the following nested loop code?
-python
-Copy code
-for i in range(3):
-    for j in range(2):
-        print(i, j)
-A) 0 0 0 1 1 0 1 1 2 0 2 1
-B) 0 1 1 0 2 1
-C) 0 0 1 1 2 0 2 1
-D) 0 1 0 1 2 0 2 1
-ANSWER: A
-
 What is the purpose of loops in programming?
 A) To automate repetitive tasks.
 B) To iterate over collections of data.
@@ -374,31 +362,11 @@ C) do-while loop
 D) if-else loop
 ANSWER: A
 
-What is the syntax for a for looping through a pre-existing list in Python?
-A) for item in sequence:
-# code to be executed
-B) while condition:
-# code to be executed
-C) for item in range(start, stop, step):
-# code to be executed
-D) for item in collection:
-# code to be executed
-ANSWER: D
-
 What is the purpose of the range() function in Python?
 A) To generate a sequence of numbers.
 B) To specify the start, stop, and step values for a loop.
 C) To iterate over elements of a sequence.
 D) To control the flow of a loop.
-ANSWER: A
-
-What will be the output of the following code?
-for number in range(1, 6):
-    print(number)
-A) 1 2 3 4 5
-B) 1 2 3 4
-C) 0 1 2 3 4
-D) 0 1 2 3 4 5
 ANSWER: A
 
 When is a while loop used in Python?
