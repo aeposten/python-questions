@@ -391,17 +391,6 @@ D) To control the flow of a loop.
 
 ANSWER: A
 
-What will be the output of the following code?
-number = 1
-while number <= 5:
-    print(number)
-    number += 1
-A) 1 2 3 4 5
-B) 1 2 3 4
-C) 0 1 2 3 4
-D) 0
-ANSWER: A
-
 What are some practical examples of using loops in Python?
 A) Printing numbers, calculating the sum of digits, finding prime numbers.
 B) Sorting data, handling exceptions, defining functions.
@@ -416,33 +405,11 @@ C) To alter the flow of execution within a loop.
 D) To perform complex iterations using nested loops.
 ANSWER: A
 
-What is the basic syntax of a while loop in Python?
-A) while condition:
-# code to be executed
-B) for element in sequence:
-# code to be executed
-C) for element in range(start, stop, step):
-# code to be executed
-D) if condition:
-# code to be executed
-ANSWER: A
-
 What is the purpose of a for loop in Python?
 A) To repeatedly execute a block of code as long as a specified condition is True.
 B) To iterate over a sequence of elements.
 C) To alter the flow of execution within a loop.
 D) To perform complex iterations using nested loops.
-ANSWER: B
-
-What is the basic syntax of a for loop in Python?
-A) while condition:
-# code to be executed
-B) for element in sequence:
-# code to be executed
-C) for element in range(start, stop, step):
-# code to be executed
-D) if condition:
-# code to be executed
 ANSWER: B
 
 What is the purpose of the break statement in a loop?
