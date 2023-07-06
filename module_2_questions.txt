@@ -1,5 +1,3 @@
-Certainly! Here are the revised questions with the correct answers in Aiken format:
-
 1. What does JSON stand for?
 A. JavaScript Object Notation
 B. Java Object Network
@@ -112,9 +110,7 @@ C. os
 D. sys
 ANSWER: A
 
-17. What is the file extension for
-
- JSON files?
+17. What is the file extension for JSON files?
 A. .txt
 B. .json
 C. .csv
