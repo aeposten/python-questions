@@ -172,7 +172,7 @@ B) Ability to modify global variables easily.
 C) Simplified program testing.
 D) Easier reasoning about the behavior of functions.
 ANSWER: D
-—-------------------------------------------------------------------------------------------------------------------------------------------------------
+
 What are lambda functions in Python?
 A) Lambda functions are functions defined with the keyword "lambda" that can take any number of arguments and return a single expression result.
 B) Lambda functions are functions that have no arguments and no return statement.
@@ -347,7 +347,6 @@ B) No, lambda functions are always pure and side effect-free.
 C) Lambda functions can have side effects, but only if explicitly specified using the side_effect keyword.
 D) Lambda functions cannot have any statements, so they cannot have side effects.
 ANSWER: B
-—-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 What is the purpose of the map() function?
 A) To transform data by applying a function to each element of an iterable.
@@ -523,7 +522,7 @@ B) filter(lambda x: x % 2 == 0, [-1, 2, -3, 4])
 C) filter(lambda x: x + 1, [-1, 2, -3, 4])
 D) filter(lambda x: x * 2, [-1, 2, -3, 4])
 ANSWER: A
-—-------------------------------------------------------------------------------------------------------------------------------------------------------
+
 What is a generator in Python?
 A) A generator is a data structure that stores data in a sequence.
 B) A generator is a function that returns an iterator.

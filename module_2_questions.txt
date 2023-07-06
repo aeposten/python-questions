@@ -89,35 +89,35 @@ C. json.load()
 D. json.dump()
 ANSWER: A
 
-14. Which Python function can be used to convert a Python object to a JSON string?
+Which Python function can be used to convert a Python object to a JSON string?
 A. json.loads()
 B. json.dumps()
 C. json.load()
 D. json.dump()
 ANSWER: B
 
-15. Which module should be imported to work with JSON in Python?
+Which module should be imported to work with JSON in Python?
 A. json
 B. csv
 C. os
 D. sys
 ANSWER: A
 
-16. Which module should be imported to work with CSV files in Python?
+Which module should be imported to work with CSV files in Python?
 A. csv
 B. json
 C. os
 D. sys
 ANSWER: A
 
-17. What is the file extension for JSON files?
+What is the file extension for JSON files?
 A. .txt
 B. .json
 C. .csv
 D. .py
 ANSWER: B
 
-18. What is the file extension for CSV files?
+What is the file extension for CSV files?
 A. .txt
 B. .json
 C. .csv
@@ -131,7 +131,7 @@ C. Using curly braces {}
 D. Using angle brackets <>
 ANSWER: A
 
-20. Which of the following is an example of a valid JSON string?
+Which of the following is an example of a valid JSON string?
 A. { name: "John", age: 25 }
 B. { "name": "John", age: 25 }
 C. { "name": "John", "age": 25 }
@@ -159,14 +159,14 @@ C. write()
 D. import()
 ANSWER: A
 
-24. How can you iterate over the rows in a CSV file using the csv module in Python?
+How can you iterate over the rows in a CSV file using the csv module in Python?
 A. Using the csv.iterrows() method
 B. Using the csv.reader() method
 C. Using the csv.write() method
 D. Using the csv.load() method
 ANSWER: B
 
-25. How can you write a list of lists to a CSV file in Python?
+How can you write a list of lists to a CSV file in Python?
 A. Using the csv.writerows() method
 B. Using the csv.read() method
 C. Using the csv.dumps() method
