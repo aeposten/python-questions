@@ -621,17 +621,6 @@ C) By specifying an infinite range in a generator expression.
 D) Infinite generators are not possible in Python.
 ANSWER: A
 
-Which of the following is an example of using a generator to iterate over a large dataset?
-A) for item in range(10**6):
-process(item)
-B) for item in [x for x in range(10**6)]:
-process(item)
-C) for item in (x for x in range(10**6)):
-process(item)
-D) for item in {x for x in range(10**6)}:
-process(item)
-ANSWER: C
-
 What is the primary advantage of using a generator over a list?
 A) Generators are more memory-efficient.
 B) Generators provide faster access to elements.
