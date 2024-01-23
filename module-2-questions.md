@@ -19,6 +19,13 @@ C. Using the json.dumps() method
 D. Using the json.load() method
 ANSWER: D
 
+<!-- Which of the following is an example of a JSON data structure?
+A. { "name": "John", "age": 25, "city": "New York" }
+B. [ "apple", "banana", "cherry" ]
+C. (1, 2, 3)
+D. "Hello, world!"
+ANSWER: A -->
+
 Which method is used to write JSON data to a file in Python?
 A. json.load()
 B. json.dumps()
@@ -68,6 +75,27 @@ C. JSON is a data interchange format.
 D. JSON is used to write complex mathematical expressions.
 ANSWER: C
 
+<!-- What data types can be represented in JSON?
+A. Strings, numbers, lists, and dictionaries
+B. Strings, integers, tuples, and sets
+C. Strings, booleans, functions, and modules
+D. Strings, characters, arrays, and objects
+ANSWER: A -->
+
+<!-- Which Python function can be used to convert a JSON string to a Python object?
+A. json.load()
+B. json.dumps()
+C. json.render()
+D. json.save()
+ANSWER: A
+
+Which Python function can be used to convert a Python object to a JSON string?
+A. json.loads()
+B. json.dumps()
+C. json.load()
+D. json.dump()
+ANSWER: B -->
+
 Which module should be imported to work with JSON in Python?
 A. json
 B. csv
@@ -96,12 +124,33 @@ C. .csv
 D. .py
 ANSWER: C
 
+<!-- How can you access nested data in a JSON structure?
+A. Using square brackets []
+B. Using parentheses ()
+C. Using curly braces {}
+D. Using angle brackets <>
+ANSWER: A -->
+
 Which of the following is an example of a valid JSON string?
 A. { name: "John", age: 25 }
 B. { "name": "John", age: 25 }
 C. { "name": "John", "age": 25 }
 D. { name = "John", age = 25 }
 ANSWER: C
+
+<!-- How can you write a JSON object to a file in Python?
+A. Using the json.loads() method
+B. Using the json.dumps() method
+C. Using the json.load() method
+D. Using the json.dump() method
+ANSWER: D
+
+How can you read a JSON file in Python?
+A. Using the json.read() method
+B. Using the json.loads() method
+C. Using the json.dump() method
+D. Using the json.load() method
+ANSWER: D -->
 
 What function should be used to open a CSV file in Python?
 A. open()

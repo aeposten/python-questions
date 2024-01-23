@@ -19,34 +19,6 @@ C) Web development, data analysis, machine learning, automation, and microservic
 D) Only data analysis and visualization, excluding other areas.
 ANSWER: C
 
-How can you access the Terminal in Windows?
-A) PowerShell or Command Prompt
-B) Terminal
-C) Command Line Interface (CLI)
-D) Bash Shell
-ANSWER: A
-
-Which command is used to create a new file in the Terminal?
-A) `pwd`
-B) `ls`
-C) `cd`
-D) `touch`
-ANSWER: D
-
-What is Git?
-A) A programming language used for web development.
-B) A text editor for writing code.
-C) A distributed version control system.
-D) A command-line interface for managing databases.
-ANSWER: C
-
-Which command is used to clone a repository from GitHub to your local machine?
-A) git clone [URL]
-B) git status
-C) git add [file]
-D) git commit -m "[message]"
-ANSWER: A
-
 What is Jupyter notebook?
 A) An integrated development environment (IDE) for Python programming.
 B) An interactive computing environment for creating and sharing documents.
